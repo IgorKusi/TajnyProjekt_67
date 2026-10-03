@@ -1,0 +1,84 @@
+[L1T001]
+
+Ile mam lat?
+
+A. 5
+B. 10
+C. 25
+D. 50
+
+#C
+
+
+[L1T002]
+
+Jaki jest mój ulubiony kolor?
+
+A. Czerwony
+B. Różowy
+C. Zielony
+D. Niebieski
+
+#B
+
+
+[L1T003]
+
+Które zwierzę najbardziej pasuje do tego pytania?
+
+A. Pies
+B. Kot
+C. Koń
+D. Słoń
+
+#B
+
+
+[L1T004]
+
+Ile miesięcy ma rok?
+
+A. 10
+B. 11
+C. 12
+D. 13
+
+#C
+
+
+[L1T005]
+
+Która odpowiedź jest poprawna?
+
+A. Pierwsza
+B. Druga
+C. Trzecia
+D. Czwarta
+
+#A
+
+
+[L1I001]
+
+Który z tych obrazków wybieram?
+
+A.
+B.
+C.
+D.
+
+#B
+
+
+[L1I002]
+
+Który z tych obrazków chuj
+
+IMAGE: images/level1/questions/L1I002.jpg
+
+A.
+B.
+C.
+D.
+
+#B
